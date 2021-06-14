@@ -7,6 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
 theme: minima
 # social links
 github_username:  htapya11
-instagram_username: htapya11
+facebook_username: htapya
 
 show_excerpts: true # set to false to remove excerpts on the homepage
