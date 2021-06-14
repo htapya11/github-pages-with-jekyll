@@ -9,8 +9,4 @@ theme: minima
 github:  htapya11
 snapchat: htapya11
 
-share-links-active:
-github: true
-snapchat: true
-
 show_excerpts: true # set to false to remove excerpts on the homepage
